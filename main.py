@@ -1,5 +1,6 @@
 """ Скрипт по поиску позиций выбранных объявлений на Авито """
 
+
 from AvitoParser import AvitoParser
 
 if __name__ == '__main__':
